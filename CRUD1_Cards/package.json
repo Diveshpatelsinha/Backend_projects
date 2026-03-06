@@ -1,0 +1,27 @@
+{
+<<<<<<< HEAD
+  "name": "practice5db",
+=======
+  "name": "practice3",
+>>>>>>> 86ba8be21f234ac9ca1f40decc96be2620664f48
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+<<<<<<< HEAD
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4"
+=======
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+>>>>>>> 86ba8be21f234ac9ca1f40decc96be2620664f48
+  }
+}
